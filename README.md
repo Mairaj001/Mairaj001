@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaj001&label=Profile%20views&color=0e75b6&style=flat" alt="mairaj001" /> </p>
 
-- 🔭 I’m currently working on [Todo App](https://github.com/Mairaj001/Todo-app-using-HTML-CSS-and-JS.git)
-
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **Html Css javascript c++ python**
-
 - 📫 How to reach me **mairajahmed2k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
