@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33&height=200&section=header&text=Mairaj%20Ahmed%20Khoso&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Digital+Reality;⚡+React+%7C+Python+%7C+AI+Enthusiast" alt="Typing SVG" />
+<img style="margin-bottom: 25px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Digital+Reality;⚡+React+%7C+Python+%7C+AI+Enthusiast" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="5"/>
 
