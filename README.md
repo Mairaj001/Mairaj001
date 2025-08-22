@@ -189,7 +189,8 @@ console.log("Welcome to my digital space! 👋");
 <div align="center">
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fukjtpbsv4octawwc56s4rr3ry&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://open.spotify.com/user/31fukjtpbsv4octawwc56s4rr3ry)
+[![Spotify](https://<your-deployment>.vercel.app/api/view?uid=31fukjtpbsv4octawwc56s4rr3ry&theme=default&cover_image=true&show_offline=true)](https://open.spotify.com/user/31fukjtpbsv4octawwc56s4rr3ry)
+
 
 
 ### 🎲 Random Dev Quote
