@@ -201,7 +201,7 @@ console.log("Welcome to my digital space! 👋");
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Snake Eating My Contributions
 
 <div align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mairaj001/mairaj001/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33&height=150&section=footer&animation=fadeIn"/>
