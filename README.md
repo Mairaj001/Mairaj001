@@ -172,22 +172,23 @@ console.log("Welcome to my digital space! 👋");
 <div align="center">
 
 <a href="https://linkedin.com/in/mairaj-ahmed-5a84b8252" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 10px; background-color:white; padding:8px; border-radius:50%; border:2px solid #0077B5;"/>
 </a>
 
 <a href="mailto:mairajahmed2k@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40" style="margin: 10px; background-color:white; padding:8px; border-radius:50%; border:2px solid #D14836;"/>
 </a>
 
 <a href="https://leetcode.com/mairaj001/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin: 10px; background-color:white; padding:8px; border-radius:50%; border:2px solid #d17c06;"/>
 </a>
 
 <a href="https://instagram.com/ig.mairaj001" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="margin: 10px; background-color:white; padding:8px; border-radius:50%; border:2px solid #E4405F;"/>
 </a>
 
 </div>
+
 <br>
 
 <div align="center">
